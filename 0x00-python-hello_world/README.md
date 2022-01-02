@@ -1,2 +1,2 @@
-#0c00 Python
+## 0x00 Python Project
 Hello World
